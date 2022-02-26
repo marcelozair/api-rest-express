@@ -1,0 +1,15 @@
+{
+  "name": "api-rest-express",
+  "version": "1.0.0",
+  "description": "Api rest with express and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MarceloZair",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.5.5"
+  }
+}
